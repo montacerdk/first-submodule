@@ -1,0 +1,19 @@
+{
+  "name": "first-submodule",
+  "version": "1.0.0",
+  "description": "The first submodule project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/montacerdk/first-submodule.git"
+  },
+  "author": "Breakpoint Technology - Montacer Dkhilali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/montacerdk/first-submodule/issues"
+  },
+  "homepage": "https://github.com/montacerdk/first-submodule#readme"
+}
